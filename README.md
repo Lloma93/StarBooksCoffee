@@ -1,10 +1,13 @@
 # StarBooksCoffee
 
+![StarBooksCoffee](https://raw.githubusercontent.com/Lloma93/StarBooksCoffee/master/app/src/main/res/drawable/starbooks.png)
 
 
 Projeto 01
 --------------
 Este é um aplicativo de tela única, que exibe informações sobre uma pequena empresa fictícia.
+
+
 
 
 Design 
